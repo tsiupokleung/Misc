@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:C129D5AA-628B-4E72-984C-628EA7123FBF" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>4EG方法</text>
+      </navLabel>
+      <content src="Text/1.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text> 致关心本书的人</text>
+      </navLabel>
+      <content src="Text/2.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text> 第一章 更替旧心态</text>
+      </navLabel>
+      <content src="Text/3.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text> 第二章 理解吸引力如何起作用</text>
+      </navLabel>
+      <content src="Text/4.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text> 第三章 新型游戏是怎么玩的</text>
+      </navLabel>
+      <content src="Text/5.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text> 第四章 为什么推进是一件很性感的事</text>
+      </navLabel>
+      <content src="Text/6.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text> 第五章 碾碎那些阻止你成功的东西</text>
+      </navLabel>
+      <content src="Text/7.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text> 第六章 跟女人调情</text>
+      </navLabel>
+      <content src="Text/8.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text> 第七章 如何立即产生你所要的信心 展现驱动力就是展现信心（这很性感！）</text>
+      </navLabel>
+      <content src="Text/9.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text> 第八章 如何让你的驱动力性感满满</text>
+      </navLabel>
+      <content src="Text/10.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text> 第九章 如何靠灵感迷住女人</text>
+      </navLabel>
+      <content src="Text/11.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text> 第十章 如何在跟女人的谈话中让自己变的健谈又迷人</text>
+      </navLabel>
+      <content src="Text/12.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text> 第十一章 如何组织谈话好让女人迷上你</text>
+      </navLabel>
+      <content src="Text/13.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text> 第十二章 你所要知道的全部就是叫女人笑</text>
+      </navLabel>
+      <content src="Text/14.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text> 第十三章 挑逗的用途</text>
+      </navLabel>
+      <content src="Text/15.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text> 第十四章 关于连接感的新观点</text>
+      </navLabel>
+      <content src="Text/16.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text> 第十五章 多数人会在不知不觉中犯下的最大失误</text>
+      </navLabel>
+      <content src="Text/17.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text> 第十六章 利用融洽感让调情状态过渡到连接感</text>
+      </navLabel>
+      <content src="Text/18.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text> 第十七章 如何利用你的生活故事来激发吸引力</text>
+      </navLabel>
+      <content src="Text/19.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text> 第十八章 如何与女人建立真诚的连接感</text>
+      </navLabel>
+      <content src="Text/20.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text> 第十九章 保持连接感的活力</text>
+      </navLabel>
+      <content src="Text/21.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text> 第二十章 如何平滑地将事情推向爱爱方向 最迷人的第一次约会</text>
+      </navLabel>
+      <content src="Text/22.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text> 第二十一章 利用你的强项创造即时吸引力</text>
+      </navLabel>
+      <content src="Text/23.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text> 第二十二章 如何成功搭讪火辣女人</text>
+      </navLabel>
+      <content src="Text/24.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text> 第二十三章 谈话中具体知道你要做什么</text>
+      </navLabel>
+      <content src="Text/25.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text> 第二十四章 如何安排一场约会</text>
+      </navLabel>
+      <content src="Text/26.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text> 第二十五章 如何快速到达肢体接触阶段</text>
+      </navLabel>
+      <content src="Text/27.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text> 第二十六章 关于相貌</text>
+      </navLabel>
+      <content src="Text/28.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text> 第二十七章 最后的激励</text>
+      </navLabel>
+      <content src="Text/29.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text> 后记</text>
+      </navLabel>
+      <content src="Text/30.html"/>
+    </navPoint>
+    
+  </navMap>
+</ncx>

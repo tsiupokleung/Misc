@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package unique-identifier="BookId" version="2.0" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator opf:role="aut">da3f04db5097083dd2d3f9dc03532068.jpg</dc:creator>
+    <dc:title>​da3f04db5097083dd2d3f9dc03532068.jpg</dc:title>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:C129D5AA-628B-4E72-984C-628EA7123FBF</dc:identifier>
+    <meta content="1.0.0" name="jianhelper"/>
+    <dc:language>zh-CN</dc:language>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2019-07-18</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Styles/Style.css" id="style" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    
+    <item href="Text/1.html" id="x1.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/2.html" id="x2.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/3.html" id="x3.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/4.html" id="x4.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/5.html" id="x5.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/6.html" id="x6.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/7.html" id="x7.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/8.html" id="x8.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/9.html" id="x9.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/10.html" id="x10.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/11.html" id="x11.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/12.html" id="x12.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/13.html" id="x13.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/14.html" id="x14.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/15.html" id="x15.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/16.html" id="x16.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/17.html" id="x17.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/18.html" id="x18.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/19.html" id="x19.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/20.html" id="x20.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/21.html" id="x21.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/22.html" id="x22.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/23.html" id="x23.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/24.html" id="x24.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/25.html" id="x25.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/26.html" id="x26.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/27.html" id="x27.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/28.html" id="x28.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/29.html" id="x29.html" media-type="application/xhtml+xml"/>
+    
+    <item href="Text/30.html" id="x30.html" media-type="application/xhtml+xml"/>
+    
+    
+    <item href="Images/d6eb472c454f95462fbabaceafd69846.jpg" id="d6eb472c454f95462fbabaceafd69846.jpg" media-type="image/jpeg"/>
+    
+    <item href="Images/da3f04db5097083dd2d3f9dc03532068.jpg" id="da3f04db5097083dd2d3f9dc03532068.jpg" media-type="image/jpeg"/>
+    
+  </manifest>
+  <spine toc="ncx">
+    
+    <itemref idref="x1.html"/>
+    
+    <itemref idref="x2.html"/>
+    
+    <itemref idref="x3.html"/>
+    
+    <itemref idref="x4.html"/>
+    
+    <itemref idref="x5.html"/>
+    
+    <itemref idref="x6.html"/>
+    
+    <itemref idref="x7.html"/>
+    
+    <itemref idref="x8.html"/>
+    
+    <itemref idref="x9.html"/>
+    
+    <itemref idref="x10.html"/>
+    
+    <itemref idref="x11.html"/>
+    
+    <itemref idref="x12.html"/>
+    
+    <itemref idref="x13.html"/>
+    
+    <itemref idref="x14.html"/>
+    
+    <itemref idref="x15.html"/>
+    
+    <itemref idref="x16.html"/>
+    
+    <itemref idref="x17.html"/>
+    
+    <itemref idref="x18.html"/>
+    
+    <itemref idref="x19.html"/>
+    
+    <itemref idref="x20.html"/>
+    
+    <itemref idref="x21.html"/>
+    
+    <itemref idref="x22.html"/>
+    
+    <itemref idref="x23.html"/>
+    
+    <itemref idref="x24.html"/>
+    
+    <itemref idref="x25.html"/>
+    
+    <itemref idref="x26.html"/>
+    
+    <itemref idref="x27.html"/>
+    
+    <itemref idref="x28.html"/>
+    
+    <itemref idref="x29.html"/>
+    
+    <itemref idref="x30.html"/>
+    
+  </spine>
+  <guide>
+  </guide>
+</package>
